@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\bin\Debug\net6.0\C#HomeWork01.exe
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\bin\Debug\net6.0\C#HomeWork01.deps.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\bin\Debug\net6.0\C#HomeWork01.runtimeconfig.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\bin\Debug\net6.0\C#HomeWork01.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\bin\Debug\net6.0\C#HomeWork01.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\refint\C#HomeWork01.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\C#HomeWork01.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01\obj\Debug\net6.0\ref\C#HomeWork01.dll

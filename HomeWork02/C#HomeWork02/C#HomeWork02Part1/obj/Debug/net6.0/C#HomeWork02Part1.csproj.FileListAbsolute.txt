@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\bin\Debug\net6.0\C#HomeWork02Part1.exe
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\bin\Debug\net6.0\C#HomeWork02Part1.deps.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\bin\Debug\net6.0\C#HomeWork02Part1.runtimeconfig.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\bin\Debug\net6.0\C#HomeWork02Part1.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\bin\Debug\net6.0\C#HomeWork02Part1.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\refint\C#HomeWork02Part1.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\C#HomeWork02Part1.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part1\obj\Debug\net6.0\ref\C#HomeWork02Part1.dll

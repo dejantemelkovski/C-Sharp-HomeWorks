@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\bin\Debug\net6.0\C#HomeWork01Part3.exe
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\bin\Debug\net6.0\C#HomeWork01Part3.deps.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\bin\Debug\net6.0\C#HomeWork01Part3.runtimeconfig.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\bin\Debug\net6.0\C#HomeWork01Part3.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\bin\Debug\net6.0\C#HomeWork01Part3.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\refint\C#HomeWork01Part3.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\C#HomeWork01Part3.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork01Part1\C#HomeWork01Part3\obj\Debug\net6.0\ref\C#HomeWork01Part3.dll

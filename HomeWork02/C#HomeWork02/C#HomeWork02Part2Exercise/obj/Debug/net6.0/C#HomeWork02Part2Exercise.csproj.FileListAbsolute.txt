@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\bin\Debug\net6.0\C#HomeWork02Part2Exercise.exe
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\bin\Debug\net6.0\C#HomeWork02Part2Exercise.deps.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\bin\Debug\net6.0\C#HomeWork02Part2Exercise.runtimeconfig.json
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\bin\Debug\net6.0\C#HomeWork02Part2Exercise.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\bin\Debug\net6.0\C#HomeWork02Part2Exercise.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\refint\C#HomeWork02Part2Exercise.dll
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.pdb
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\C#HomeWork02Part2Exercise.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\C# HomeWorks\C# HomeWork01\C#HomeWork02\C#HomeWork02\C#HomeWork02Part2Exercise\obj\Debug\net6.0\ref\C#HomeWork02Part2Exercise.dll
