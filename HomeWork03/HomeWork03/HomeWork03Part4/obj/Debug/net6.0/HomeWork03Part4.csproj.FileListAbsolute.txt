@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\bin\Debug\net6.0\HomeWork03Part4.exe
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\bin\Debug\net6.0\HomeWork03Part4.deps.json
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\bin\Debug\net6.0\HomeWork03Part4.runtimeconfig.json
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\bin\Debug\net6.0\HomeWork03Part4.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\bin\Debug\net6.0\HomeWork03Part4.pdb
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\refint\HomeWork03Part4.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.pdb
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\HomeWork03Part4.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork03\HomeWork03\HomeWork03Part4\obj\Debug\net6.0\ref\HomeWork03Part4.dll
