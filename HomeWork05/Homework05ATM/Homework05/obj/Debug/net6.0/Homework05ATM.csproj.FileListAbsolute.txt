@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\bin\Debug\net6.0\Homework05ATM.exe
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\bin\Debug\net6.0\Homework05ATM.deps.json
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\bin\Debug\net6.0\Homework05ATM.runtimeconfig.json
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\bin\Debug\net6.0\Homework05ATM.dll
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\bin\Debug\net6.0\Homework05ATM.pdb
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.dll
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\refint\Homework05ATM.dll
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.pdb
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\Homework05ATM.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\HomeWork05\Homework05ATM\Homework05\obj\Debug\net6.0\ref\Homework05ATM.dll
