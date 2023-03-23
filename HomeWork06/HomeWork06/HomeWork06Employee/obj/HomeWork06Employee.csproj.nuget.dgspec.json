@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dejan\\Desktop\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj": {}
+    "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dejan\\Desktop\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj": {
+    "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj",
+        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj",
         "projectName": "HomeWork06Employee",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj",
+        "projectPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork06\\HomeWork06\\HomeWork06Employee\\HomeWork06Employee.csproj",
         "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\HomeWork06\\HomeWork06\\HomeWork06Employee\\obj\\",
+        "outputPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork06\\HomeWork06\\HomeWork06Employee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
