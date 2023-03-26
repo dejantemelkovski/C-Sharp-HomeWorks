@@ -10,3 +10,15 @@ C:\Users\Dejan\Desktop\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0
 C:\Users\Dejan\Desktop\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\refint\HomeWork06Employee.dll
 C:\Users\Dejan\Desktop\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.pdb
 C:\Users\Dejan\Desktop\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\ref\HomeWork06Employee.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\bin\Debug\net6.0\HomeWork06Employee.deps.json
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\bin\Debug\net6.0\HomeWork06Employee.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\bin\Debug\net6.0\HomeWork06Employee.pdb
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\refint\HomeWork06Employee.dll
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\HomeWork06Employee.pdb
+C:\Users\Dejan\Desktop\C#HomeWorks\HomeWork06\HomeWork06\HomeWork06Employee\obj\Debug\net6.0\ref\HomeWork06Employee.dll

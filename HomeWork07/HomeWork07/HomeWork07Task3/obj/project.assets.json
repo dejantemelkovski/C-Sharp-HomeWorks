@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\HomeWork07\\HomeWork07\\HomeWork07Task3\\HomeWork07Task3.csproj",
+      "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork07\\HomeWork07\\HomeWork07Task3\\HomeWork07Task3.csproj",
       "projectName": "HomeWork07Task3",
-      "projectPath": "C:\\Users\\Dejan\\Desktop\\HomeWork07\\HomeWork07\\HomeWork07Task3\\HomeWork07Task3.csproj",
+      "projectPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork07\\HomeWork07\\HomeWork07Task3\\HomeWork07Task3.csproj",
       "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dejan\\Desktop\\HomeWork07\\HomeWork07\\HomeWork07Task3\\obj\\",
+      "outputPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork07\\HomeWork07\\HomeWork07Task3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
