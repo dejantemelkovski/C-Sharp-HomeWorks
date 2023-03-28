@@ -2,6 +2,7 @@
 {
     public class Subject
     {
+        public List<Student> StudentsEnrolled { get; set; } = new List<Student>();
         public Subject(string name)
         {
             Name = name;

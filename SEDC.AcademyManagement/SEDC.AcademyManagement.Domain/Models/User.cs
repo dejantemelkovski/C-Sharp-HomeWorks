@@ -4,7 +4,19 @@ namespace SEDC.AcademyManagement.Domain.Models
 {
     public class User
     {
-        public User(string username, string firstname, string lastname, int age)
+        private string v1;
+        private string v2;
+        private int v3;
+
+        public User(string username, string v1, string v2, int v3)
+        {
+            Username = username;
+            this.v1 = v1;
+            this.v2 = v2;
+            this.v3 = v3;
+        }
+
+        public User(string username, string firstname, string lastname, string? lastName, int age)
         {
             Username = username;
             Firstname = firstname;
@@ -17,6 +29,7 @@ namespace SEDC.AcademyManagement.Domain.Models
         public string Lastname { get; set; }
         public int Age { get; set; }
         public Role Role { get; set; }
+        public string Password { get; set; }
     }
 }
 

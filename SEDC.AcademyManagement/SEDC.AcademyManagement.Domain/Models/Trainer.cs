@@ -7,12 +7,13 @@ namespace SEDC.AcademyManagement.Domain.Models
         private string? password;
         private string? fullName;
 
-        public Trainer(string? username, string? password, string? fullName)
+        public Trainer(string username, string firstname, string lastname, int age, string password, string fullName) : base(username, firstname, lastname, age)
         {
-            Username = username;
-            this.password = password;
+            Role = Role.Trainer;
+            Password = password;
             this.fullName = fullName;
         }
+
 
         public Trainer(string username, string firstname, string lastname, int age) : base(username, firstname, lastname, age)
         {

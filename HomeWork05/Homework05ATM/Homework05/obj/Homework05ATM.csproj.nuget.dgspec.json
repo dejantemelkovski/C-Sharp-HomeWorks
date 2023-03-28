@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dejan\\Desktop\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj": {}
+    "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dejan\\Desktop\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj": {
+    "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj",
+        "projectUniqueName": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj",
         "projectName": "Homework05ATM",
-        "projectPath": "C:\\Users\\Dejan\\Desktop\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj",
+        "projectPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork05\\Homework05ATM\\Homework05\\Homework05ATM.csproj",
         "packagesPath": "C:\\Users\\Dejan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dejan\\Desktop\\HomeWork05\\Homework05ATM\\Homework05\\obj\\",
+        "outputPath": "C:\\Users\\Dejan\\Desktop\\C#HomeWorks\\HomeWork05\\Homework05ATM\\Homework05\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

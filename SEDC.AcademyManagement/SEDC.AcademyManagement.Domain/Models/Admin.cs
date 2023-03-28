@@ -6,13 +6,15 @@ namespace SEDC.AcademyManagement.Domain.Models
     {
         private string? password;
         private string? fullName;
+        private string? username;
 
-        public Admin(string? username, string? password, string? fullName)
-        {
-            Username = username;
-            this.password = password;
-            this.fullName = fullName;
-        }
+        public Admin(string username, string password, string fullName) : base(username, "", "", 0)
+{
+    this.password = password;
+    this.fullName = fullName;
+    Role = Role.Admin;
+}
+
 
         public Admin(string username, string firstname, string lastname, int age) : base(username, firstname, lastname, age)
         {

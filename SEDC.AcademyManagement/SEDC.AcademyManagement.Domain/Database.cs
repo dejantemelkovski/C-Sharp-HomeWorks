@@ -5,15 +5,21 @@ namespace SEDC.AcademyManagement.Domain
     public class Database
     {
 
-        public Database()
-        {
-            SeedData();
-        }
+        //public Database()
+        //{
+        //    SeedData();
+        //}
+
 
         public List<Admin> Admins { get; set; } = new List<Admin>();
         public List<Trainer> Trainers { get; set; } = new List<Trainer>();
         public List<Student> Students { get; set; } = new List<Student>();
         public List<Subject> Subjects { get; set; } = new List<Subject>();
+
+        public void AddUserToDatabase(User user)
+        {
+            throw new NotImplementedException();
+        }
 
         public User AuthenticateUser(string? username, string? password)
         {
@@ -36,6 +42,11 @@ namespace SEDC.AcademyManagement.Domain
         }
 
         public User? Login(string? username, string? password)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void RemoveUser(string? removeUsername)
         {
             throw new NotImplementedException();
         }
