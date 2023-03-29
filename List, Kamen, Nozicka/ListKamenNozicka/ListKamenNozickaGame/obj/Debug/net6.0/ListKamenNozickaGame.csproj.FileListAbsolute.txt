@@ -1,0 +1,15 @@
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\bin\Debug\net6.0\ListKamenNozickaGame.exe
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\bin\Debug\net6.0\ListKamenNozickaGame.deps.json
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\bin\Debug\net6.0\ListKamenNozickaGame.runtimeconfig.json
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\bin\Debug\net6.0\ListKamenNozickaGame.dll
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\bin\Debug\net6.0\ListKamenNozickaGame.pdb
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.csproj.AssemblyReference.cache
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.AssemblyInfoInputs.cache
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.AssemblyInfo.cs
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.csproj.CoreCompileInputs.cache
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.dll
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\refint\ListKamenNozickaGame.dll
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.pdb
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ListKamenNozickaGame.genruntimeconfig.cache
+C:\Users\Dejan\Desktop\List, Kamen, Nozicka\ListKamenNozicka\ListKamenNozickaGame\obj\Debug\net6.0\ref\ListKamenNozickaGame.dll

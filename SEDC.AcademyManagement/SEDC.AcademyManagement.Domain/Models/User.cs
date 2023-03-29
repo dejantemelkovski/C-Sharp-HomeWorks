@@ -32,4 +32,3 @@ namespace SEDC.AcademyManagement.Domain.Models
         public string Password { get; set; }
     }
 }
-
